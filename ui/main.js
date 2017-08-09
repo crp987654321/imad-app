@@ -18,6 +18,6 @@ button.onlcick = function (){
         //Not done yet
     };
     //Make a request
-    request.open('GET','http://crprajapati111.imad.hasura-app.io/counter',true);
+    request.open('GET',`http://crprajapati111.imad.hasura-app.io/counter`,true);
     request.send(null);
 };
