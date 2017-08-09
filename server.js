@@ -11,10 +11,10 @@ var articles = {
     heading: 'Article-1',
     date: 'August 8,2017',
     content:`<p>
-               This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.
+               Hi I am Chetan R. Prajapati,NITKIAN(Batch of 2020).I developed and designed this small website. Being a newcomer,I am looking forward to develop and enhance my skills particularly in web designing, app development ,competitive coding and machine learning.
             </p>
             <p>
-                This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.
+               If you like to see my projects my github username is <link href="https://github.com/crp987654321"/>.
             </p>
             <p>
                 This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my first article.This is content for my article.
