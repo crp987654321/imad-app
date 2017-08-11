@@ -18,12 +18,10 @@ var articles = {
             </p>
             <p>
                 I am interested in cricket, dance, music. We were having a fabulous performance in nitk in first years.It's called Bharat Darshan. In it all students show culture of thier states. Here's a video of it.
-                <video width="320" height="240" controls>
                  <link itemprop="embedURL" href="https://www.youtube.com/embed/8uQyzZq5s9w">
                  <meta itemprop="playerType" content="HTML5 Flash">
                  <meta itemprop="width" content="1280">
                  <meta itemprop="height" content="720">
-                </video>
             </p>`
 },
 
