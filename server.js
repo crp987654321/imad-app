@@ -14,7 +14,7 @@ var articles = {
                Hi I am Chetan R. Prajapati,NITKIAN(Batch of 2020).I developed and designed this small website. Being a newcomer,I am looking forward to develop and enhance my skills particularly in web designing, app development ,competitive coding and machine learning.
             </p>
             <p>
-               If you like to see my projects my github username is @crp987654321.
+               If you like to see my projects my github username is <a href="https://github.com/crp987654321">@crp987654321</a>
             </p>
             <p>
                 This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my first article.This is content for my article.
