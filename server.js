@@ -17,7 +17,10 @@ var articles = {
                If you like to see my projects my github username is <a href="https://github.com/crp987654321">@crp987654321</a>
             </p>
             <p>
-                This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my article.This is content for my first article.This is content for my article.
+                I am interested in cricket, dance, music. We were having a fabulous performance in nitk in first years.It's called Bharat Darshan. In it all students show culture of thier states. Here's a video of it.
+                <video width="320" height="240" controls>
+                 <source src="https://www.youtube.com/watch?v=8uQyzZq5s9w" type="video/mp4">
+                </video>
             </p>`
 },
 
